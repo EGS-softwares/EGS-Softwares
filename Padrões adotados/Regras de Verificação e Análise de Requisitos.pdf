@@ -1,0 +1,27 @@
+Especificação de requisitos
+Identificação dos Requisitos:
+RF é utilizado para identificar Requisitos Funcionais e RNF é utilizado para identificar
+Requisitos Não Funcionais. Ambas siglas vem acompanhada de um número que é o
+identificador único dos requisitos. Por exemplo, o requisito [RF016] indica um requisito
+funcional de número 16.
+● Prioridades dos Requisitos
+Para estabelecer a prioridade dos requisitos foram adotadas as denominações “essencial”,
+“importante” e “desejável”.
+➔ Essencial é o requisito sem o qual o sistema não entra em funcionamento.
+Requisitos essenciais são requisitos imprescindíveis, que têm que ser
+implementados impreterivelmente.
+➔ Importante é o requisito sem o qual o sistema entra em funcionamento, mas de
+forma não satisfatória. Requisitos importantes devem ser implementados, mas, se
+não forem, o sistema poderá ser implantado e usado mesmo assim.
+➔ Desejável é o requisito que não compromete as funcionalidades básicas do sistema,
+isto é, o sistema pode funcionar de forma satisfatória sem ele. Requisitos desejáveis
+são requisitos que podem ser deixados para versões posteriores do sistema, caso
+não haja tempo hábil para implementá-los na versão que está sendo especificada.
+Regras Adotadas na Declaração dos Requisitos:
+● Definir um requisito por vez.
+● Evite as palavras: E, OU, SOMENTE SE, EXCETO, SE NECESSÁRIO, MAS,
+CONTUDO, ENTRETANTO, USUALMENTE, GERALMENTE, FREQUENTEMENTE,
+TIPICAMENTE, AMIGÁVEL, VERSÁTIL, FLEXÍVEL, APROXIMADAMENTE, TÃO
+LOGO QUANTO POSSÍVEL, TALVEZ, PROVAVELMENTE ou palavras que
+forneçam a mesma idéia que essas.
+● Evite frases grandes
